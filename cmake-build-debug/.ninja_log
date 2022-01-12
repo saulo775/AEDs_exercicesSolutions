@@ -1,8 +1,11 @@
 # ninja log v5
-1	31	1641930806324065613	CMakeFiles/AEDs_ExercicesSolutions.dir/C_exercices/STRUCTS/ex1.c.o	6530bb813d3ec23c
-0	45	1641994067865953502	build.ninja	5aa27f065de2242f
-31	60	1641930806353605829	AEDs_ExercicesSolutions	4550749d91e131ef
-0	40	1641906258048004188	CMakeFiles/AEDs_ExercicesSolutions.dir/TAD/main.c.o	f811b4cad56feaee
-0	52	1641994067865953502	build.ninja	5aa27f065de2242f
 0	162	1641994068034351610	CMakeFiles/AEDs_ExercicesSolutions.dir/C_exercices/STRUCTS/ex2.c.o	4347d8b756f8efb0
+0	40	1641906258048004188	CMakeFiles/AEDs_ExercicesSolutions.dir/TAD/main.c.o	f811b4cad56feaee
 162	212	1641994068086132773	AEDs_ExercicesSolutions	4a2b381588ba557c
+0	52	1641994580685788273	build.ninja	5aa27f065de2242f
+1	31	1641930806324065613	CMakeFiles/AEDs_ExercicesSolutions.dir/C_exercices/STRUCTS/ex1.c.o	6530bb813d3ec23c
+0	44	1641994580685788273	build.ninja	5aa27f065de2242f
+0	138	1641994580829106474	CMakeFiles/AEDs_ExercicesSolutions.dir/C_exercices/STRUCTS/ex3.c.o	538283bf4ff581a0
+138	174	1641994580866760479	AEDs_ExercicesSolutions	106a44738fad7572
+0	26	1641994652718774902	CMakeFiles/AEDs_ExercicesSolutions.dir/C_exercices/STRUCTS/ex3.c.o	538283bf4ff581a0
+26	59	1641994652752222500	AEDs_ExercicesSolutions	106a44738fad7572
