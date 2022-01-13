@@ -3,4 +3,4 @@ project(AEDs_ExercicesSolutions C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(AEDs_ExercicesSolutions C_exercices/STRUCTS/ex6.c)
+add_executable(AEDs_ExercicesSolutions C_exercices/FUNCTIONS/ex1.c)
