@@ -18,7 +18,7 @@ int main() {
     printf("digite um numero: ");
     scanf("%d", &numero);
 
-    printf("fatorial: %d", somatorio(numero));
+    printf("somatorio: %d", somatorio(numero));
 
     return 0;
 }
