@@ -3,4 +3,4 @@ project(AEDs_ExercicesSolutions C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(AEDs_ExercicesSolutions C_exercices/5_DYNAMIC_ALLOCATION/ex2.c)
+add_executable(AEDs_ExercicesSolutions C_exercices/5_DYNAMIC_ALLOCATION/ex3.c)
