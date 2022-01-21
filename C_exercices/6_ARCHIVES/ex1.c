@@ -15,7 +15,7 @@ int main() {
 
     FILE *f;
 
-    f = fopen("C_exercices\\6_ARCHIVES\\archives\\arq.txt", "r");
+    f = fopen("C_exercices\\6_ARCHIVES\\archives\\arq.txt", "w");
 
     if (f == NULL){
         printf("Nao foi possivel abrir o arquivo!!!");
@@ -32,6 +32,7 @@ int main() {
         }
 
         fputc(caracter, f);
+        fputc("\n", f);
     } while (1);
 
     fclose(f);
